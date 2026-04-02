@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "name": "วัดมหาธาตุ (Wat Mahathat)",
+    "description": "วัดสำคัญในเขตอุทยานประวัติศาสตร์ จุดเด่นคือเศียรพระพุทธรูปในรากไม้ ที่มีอายุกว่าร้อยปี",
+    "imageUrl": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "2",
+    "name": "วัดไชยวัฒนาราม (Wat Chaiwatthanaram)",
+    "description": "วัดสวยงามริมแม่น้ำเจ้าพระยา สถาปัตยกรรมแบบขอม นิยมใส่ชุดไทยไปถ่ายรูป ยิ่งตอนพระอาทิตย์ตกจะสวยมาก",
+    "imageUrl": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "3",
+    "name": "วัดใหญ่ชัยมงคล (Wat Yai Chai Mongkhon)",
+    "description": "เจดีย์ทรงระฆังขนาดใหญ่ สามารถขึ้นไปชมวิวมุมสูงได้ เป็นหนึ่งในสัญลักษณ์ของอยุธยา",
+    "imageUrl": "https://images.unsplash.com/photo-1590502593747-4224528c1143?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "4",
+    "name": "วัดพระศรีสรรเพชญ์ (Wat Phra Si Sanphet)",
+    "description": "อดีตวัดหลวงในเขตพระราชวังโบราณ จุดเด่นคือเจดีย์ 3 องค์เรียงกัน ยิ่งใหญ่ตระการตา",
+    "imageUrl": "https://images.unsplash.com/photo-1510379872535-9310f543e300?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "5",
+    "name": "ตลาดน้ำอโยธยา (Ayothaya Floating Market)",
+    "description": "ตลาดน้ำขนาดใหญ่บรรยากาศย้อนยุค มีของกินพื้นเมืองและของฝากมากมาย พร้อมชมการแสดง",
+    "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "6",
+    "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+    "description": "จัดแสดงโบราณวัตถุชิ้นสำคัญที่ค้นพบในอยุธยา รวมทั้งเครื่องทองคำล้ำค่าจากกรุวัดราชบูรณะ",
+    "imageUrl": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "7",
+    "name": "วัดพนัญเชิงวรวิหาร (Wat Phanan Choeng)",
+    "description": "ประดิษฐานหลวงพ่อโต (พระพุทธไตรรัตนนายก) พระพุทธรูปขนาดใหญ่ที่เป็นที่เคารพสักการะของชาวไทยและจีน",
+    "imageUrl": "https://images.unsplash.com/photo-1608660467554-4632dbb7edc0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "8",
+    "name": "หมู่บ้านญี่ปุ่น (Japanese Village)",
+    "description": "อนุสรณ์สถานชุมชนชาวญี่ปุ่นในสมัยอยุธยา มีสวนสไตล์ญี่ปุ่นสวยงามร่มรื่น และมีชุดยูกาตะให้เช่าถ่ายรูป",
+    "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "9",
+    "name": "พุทธอุทยานมหาราช หลวงปู่ทวด",
+    "description": "ประดิษฐานรูปปั้นหลวงปู่ทวดขนาดใหญ่ที่สุดในโลก บรรยากาศร่มรื่น มีตลาดและของกินอร่อยมากมาย",
+    "imageUrl": "https://images.unsplash.com/photo-1549474758-1f19f2a71f00?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "10",
+    "name": "วัดนิเวศธรรมประวัติราชวรวิหาร",
+    "description": "วัดไทยที่มีสถาปัตยกรรมแบบโบสถ์คริสต์ (โกธิค) ตั้งอยู่บนเกาะกลางแม่น้ำ ต้องนั่งกระเช้าข้ามไป คลาสสิกมาก",
+    "imageUrl": "https://images.unsplash.com/photo-1588636284687-2ed8b1842eb3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "11",
+    "name": "วัดราชบูรณะ (Wat Ratchaburana)",
+    "description": "อยู่ใกล้กับวัดมหาธาตุ โดดเด่นด้วยปรางค์ประธานทรงขอม และเคยเป็นที่ค้นพบเครื่องทองโบราณจำนวนมหาศาลในกรุชั้นล่าง",
+    "imageUrl": "https://images.unsplash.com/photo-1590050752117-23a9d7fc217c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "12",
+    "name": "วัดโลกยสุธาราม (Wat Lokayasutharam)",
+    "description": "ประดิษฐานพระพุทธไสยาสน์ (พระนอน) ขนาดใหญ่ที่ประดิษฐานอยู่กลางแจ้ง ท่ามกลางโบราณสถานอันเก่าแก่",
+    "imageUrl": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "13",
+    "name": "พระราชวังบางปะอิน (Bang Pa-In Royal Palace)",
+    "description": "พระราชวังฤดูร้อนที่มีสถาปัตยกรรมผสมผสานทั้งไทย จีน และยุโรป มีความสวยงามร่มรื่นและเป็นเอกลักษณ์",
+    "imageUrl": "https://images.unsplash.com/photo-1508010064504-192911346d3f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "14",
+    "name": "วัดพุทไธศวรรย์ (Wat Phutthaisawan)",
+    "description": "วัดสำคัญริมแม่น้ำเจ้าพระยาที่มีปรางค์ประธานสีขาวสะอาดตา เป็นหนึ่งในสถานที่ถ่ายทำละครบุพเพสันนิวาส",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "15",
+    "name": "วิหารพระมงคลบพิตร (Wihan Phra Mongkhon Bophit)",
+    "description": "ประดิษฐานพระมงคลบพิตร พระพุทธรูปสัมฤทธิ์องค์ใหญ่ที่สุดองค์หนึ่งในไทย อยู่ติดกับวัดพระศรีสรรเพชญ์",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bbaa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "16",
+    "name": "หมู่บ้านโปรตุเกส (Portuguese Village)",
+    "description": "เรียนรู้ประวัติศาสตร์การเข้ามาของชาวตะวันตกกลุ่มแรกในอยุธยา มีการขุดพบโบราณสถานและโครงกระดูกชาวโปรตุเกสโบราณ",
+    "imageUrl": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "17",
+    "name": "วัดแม่นางปลื้ม (Wat Mae Nang Pluem)",
+    "description": "วัดเก่าแก่ที่มีบรรยากาศขลังและสงบมาก ไฮไลท์คือวิหารเก่าที่มีประตูรับแสงส่องถึงองค์พระพุทธรูปพอดี",
+    "imageUrl": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "18",
+    "name": "วังช้างแลเพนียด (Ayutthaya Elephant Palace)",
+    "description": "สัมผัสกิจกรรมขี่ช้างชมเมืองโบราณ หรือถ่ายรูปคู่กับช้างแสนรู้ท่ามกลางบรรยากาศกรุงเก่า",
+    "imageUrl": "https://images.unsplash.com/photo-1581850518616-bcb8186c34bb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "19",
+    "name": "วัดกษัตราธิราชวรวิหาร",
+    "description": "วัดสวยริมน้ำฝั่งตรงข้ามกับพระราชวังโบราณ มองเห็นวิวยามค่ำคืนของวัดไชยวัฒนารามได้อย่างสวยงาม",
+    "imageUrl": "https://images.unsplash.com/photo-1510379872535-9310f543e300?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "20",
+    "name": "ตลาดกลางเพื่อการเกษตร (Ayutthaya Central Market)",
+    "description": "สวรรค์ของคนรักกุ้งเผา มีร้านอาหารเรียงรายให้เลือกชิมกุ้งแม่น้ำสดๆ พร้อมน้ำจิ้มรสเด็ด",
+    "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "21",
+    "name": "วัดเชิงท่า (Wat Choeng Tha)",
+    "description": "วัดเก่าแก่ที่มีสถาปัตยกรรมสวยงาม รวมถึงศาลาการเปรียญไม้ที่รวบรวมศิลปกรรมสมัยอยุธยาตอนปลายไว้อย่างสมบูรณ์",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "22",
+    "name": "The Wine Ayudhya",
+    "description": "คาเฟ่และร้านอาหารดีไซน์ล้ำสมัยด้วยโครงสร้างไม้และกระจก ตั้งอยู่ริมแม่น้ำเจ้าพระยา เป็นแลนด์มาร์คของสายถ่ายรูป",
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "23",
+    "name": "วัดท่าการ้อง",
+    "description": "วัดที่มีการตกแต่งด้วยตุ๊กตาปูนปั้นและดอกไม้ไม้ประดับสวยงาม มีตลาดน้ำกรุงเก่าอยู่ภายในวัด",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bbaa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "24",
+    "name": "หมู่บ้านฮอลันดา (Baan Hollanda)",
+    "description": "ศูนย์การเรียนรู้ประวัติศาสตร์ความสัมพันธ์ไทย-เนเธอร์แลนด์ ตั้งอยู่บนพื้นที่เดิมของสถานีการค้าบริษัท VOC",
+    "imageUrl": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "25",
+    "name": "วัดนางกุย",
+    "description": "วัดเก่าแก่ริมน้ำ มีพระพุทธรูปศิลาเขียวสมัยทวารวดี และศาลแม่นางกุยที่เป็นที่เคารพศรัทธา",
+    "imageUrl": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "26",
+    "name": "Busaba Cafe & Bake Lab",
+    "description": "คาเฟ่สีขาวมินิมอลหน้าวัดราชบูรณะ โดดเด่นด้วยการนำสายไหมของดีอยุธยามาทำเป็นเมนูขนมและเครื่องดื่ม",
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "27",
+    "name": "วัดศาลาปูนวรวิหาร",
+    "description": "วัดโบราณที่เป็นที่ประดิษฐาน 'หลวงพ่อแขนลาย' พระพุทธรูปศักดิ์สิทธิ์ที่มีลักษณะพิเศษเฉพาะตัว",
+    "imageUrl": "https://images.unsplash.com/photo-1590502593747-4224528c1143?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "28",
+    "name": "ตลาดหัวรอ",
+    "description": "ตลาดเก่าแก่ที่มีชีวิตชีวา เป็นแหล่งรวมอาหารพื้นเมือง ขนมไทยโบราณ และของใช้ที่ยังคงกลิ่นอายอดีต",
+    "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "29",
+    "name": "วัดกุฎีดาว",
+    "description": "โบราณสถานที่อยู่นอกเกาะเมือง มีซากปรักหักพังที่คงความสวยงามและเงียบสงบ เหมาะสำหรับคนชอบถ่ายภาพแนวประวัติศาสตร์",
+    "imageUrl": "https://images.unsplash.com/photo-1510379872535-9310f543e300?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "30",
+    "name": "ปราสาทนครหลวง",
+    "description": "อดีตที่พักระหว่างทางไปนมัสการรอยพระพุทธบาท สถาปัตยกรรมก่ออิฐถือปูนที่ยิ่งใหญ่และดูมีมนต์ขลัง",
+    "imageUrl": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "31",
+    "name": "วัดวรเชษฐาราม",
+    "description": "วัดสำคัญที่เชื่อว่าเป็นที่ถวายพระเพลิงพระบรมศพสมเด็จพระนเรศวรมหาราช มีเจดีย์ประธานทรงระฆังที่สวยงาม",
+    "imageUrl": "https://images.unsplash.com/photo-1590050752117-23a9d7fc217c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "32",
+    "name": "วัดพราหมณี (หลวงพ่อปากแดง อยุธยา)",
+    "description": "สาขาของหลวงพ่อปากแดงที่เป็นที่รู้จัก มีผู้คนเดินทางมาขอพรเพื่อความเป็นสิริมงคลและโชคลาภ",
+    "imageUrl": "https://images.unsplash.com/photo-1608660467554-4632dbb7edc0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "33",
+    "name": "บ้านไม้ริมน้ำ (Baan Mai Rim Nam)",
+    "description": "ร้านอาหารไทยดั้งเดิม บรรยากาศบ้านไม้ริมแม่น้ำเจ้าพระยา เมนูเด็ดคือกุ้งแม่น้ำเผาและต้มยำปลาคัง",
+    "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "34",
+    "name": "วัดนักบุญยอแซฟ (St. Joseph's Church)",
+    "description": "โบสถ์คริสต์นิกายโรมันคาทอลิกสีเหลืองสวยงามริมแม่น้ำ มีประวัติศาสตร์ยาวนานตั้งแต่สมัยอยุธยา",
+    "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "35",
+    "name": "วัดธรรมิกราช",
+    "description": "อดีตวัดหลวงที่มีจุดเด่นคือ 'เจดีย์ทรงกลมล้อมรอบด้วยสิงห์ปูนปั้น' และเศียรพระพุทธรูปสำริดขนาดใหญ่",
+    "imageUrl": "https://images.unsplash.com/photo-1590502593747-4224528c1143?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "36",
+    "name": "Sala Ayutthaya",
+    "description": "โรงแรมและคาเฟ่ที่มีกำแพงอิฐแดงเป็นเอกลักษณ์ (Brick Wall) ตั้งอยู่ฝั่งตรงข้ามวัดพุทไธศวรรย์ วิวสวยระดับ 5 ดาว",
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "37",
+    "name": "วัดพระราม",
+    "description": "ตั้งอยู่หน้าพระราชวังโบราณ มีปรางค์ประธานขนาดใหญ่และบึงพระรามที่กว้างขวาง เหมาะสำหรับเดินเล่นช่วงเย็น",
+    "imageUrl": "https://images.unsplash.com/photo-1510379872535-9310f543e300?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "38",
+    "name": "ร้านอาหารเรือนไทยกุ้งเผา",
+    "description": "ร้านกุ้งเผาชื่อดังในวัดเชิงเลน (บางไทร) ที่สายกินยอมขับรถไกลมาเพื่อกุ้งแม่น้ำตัวยักษ์เนื้อเด้ง",
+    "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "39",
+    "name": "วัดท่าหลวง (พิจิตร แต่อยู่ในเขตเชื่อมต่ออยุธยา)",
+    "description": "วัดที่เป็นศูนย์รวมจิตใจของชาวบ้านในย่านบางบาล มีความสงบและสถาปัตยกรรมที่วิจิตร",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bbaa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "40",
+    "name": "โรตีสายไหม อาบีดีน-ประนอม แสงอรุณ",
+    "description": "ร้านโรตีสายไหมเจ้าดังหน้าโรงพยาบาลอยุธยา ที่ได้รับ Michelin Guide แป้งสดทำใหม่ทุกวัน",
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "41",
+    "name": "วัดตึก",
+    "description": "วัดที่มีประวัติเกี่ยวข้องกับพระเจ้าเสือ มี 'ตึก' หรือตำหนักเก่าที่สร้างด้วยศิลปะผสมผสานอย่างสวยงาม",
+    "imageUrl": "https://images.unsplash.com/photo-1590050752117-23a9d7fc217c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "42",
+    "name": "วัดสุวรรณดารารามราชวรวิหาร",
+    "description": "วัดประจำราชวงศ์จักรี มีภาพจิตรกรรมฝาผนังการสู้รบยุทธหัตถีของสมเด็จพระนเรศวรที่งดงามที่สุด",
+    "imageUrl": "https://images.unsplash.com/photo-1608660467554-4632dbb7edc0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "43",
+    "name": "พระราชวังหลวง (Ancient Palace)",
+    "description": "เขตพระราชฐานชั้นในที่เหลือเพียงฐานราก แต่ยังคงความยิ่งใหญ่ที่สะท้อนถึงศูนย์กลางอำนาจในอดีต",
+    "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "44",
+    "name": "สวนสาธารณะบึงพระราม",
+    "description": "พื้นที่สีเขียวใจกลางเมืองอยุธยา เหมาะสำหรับวิ่งออกกำลังกาย ปั่นจักรยานชมวิววัด",
+    "imageUrl": "https://images.unsplash.com/photo-1581850518616-bcb8186c34bb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "45",
+    "name": "พิพิธภัณฑ์ล้านของเล่นเกริกยุ้นพันธ์",
+    "description": "สวรรค์ของคนรักของเล่นโบราณ รวบรวมของสะสมจากทั่วโลกในบ้านสีฟ้าสดใส บรรยากาศอบอุ่น",
+    "imageUrl": "https://images.unsplash.com/photo-1531525645387-7f14be13bd33?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "46",
+    "name": "วัดโบสถ์ (หลวงพ่อโตองค์ใหญ่)",
+    "description": "ตั้งอยู่ที่อำเภอสามโคก (รอยต่ออยุธยา) มีรูปปั้นหลวงพ่อโตและหลวงปู่ทวดองค์ใหญ่ริมน้ำ",
+    "imageUrl": "https://images.unsplash.com/photo-1549474758-1f19f2a71f00?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "47",
+    "name": "Summer House Ayutthaya",
+    "description": "คาเฟ่ริมน้ำสไตล์ Cozy ที่มีโรงคั่วกาแฟเอง และมีเมนูเด็ดคือพาสต้าแกงคั่วกุ้งเผา",
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "48",
+    "name": "วัดใหญ่ชัยมงคล (จุดชมวิวเจดีย์)",
+    "description": "เพิ่มเติมนอกเหนือจากตัววัด คือการเดินขึ้นเจดีย์ไปดูห้องกรุโบราณและวิวเมืองจากมุมสูง",
+    "imageUrl": "https://images.unsplash.com/photo-1590502593747-4224528c1143?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "49",
+    "name": "วัดมเหยงคณ์",
+    "description": "สถานที่ปฏิบัติธรรมที่มีชื่อเสียง มีโบราณสถานวัดเก่าที่มีรากไม้เลื้อยตามกำแพงอิฐอย่างสวยงาม",
+    "imageUrl": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "50",
+    "name": "ถนนคนเดินกรุงศรี",
+    "description": "เปิดช่วงเย็นวันเสาร์-อาทิตย์ แหล่งรวมอาหารพื้นบ้านและของแฮนด์เมด ท่ามกลางบรรยากาศเมืองเก่า",
+    "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  }
+]
