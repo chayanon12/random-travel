@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/random-travel",
+      "destination": "/"
+    },
+    {
+      "source": "/random-travel/:path*",
+      "destination": "/:path*"
+    }
+  ]
+}
